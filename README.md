@@ -1,5 +1,4 @@
-# minion
-It is a project based factory management system.
+It is a project based on factory management system.
 In this,a java based factory management software has been created for maintaining records related to sales,production,employees,costumers,
 expenditure and department details.Here ,either owner or his managers only can log into the system and further add , delete and view other 
 details.Further an owner can add new manager,view manager list as well as delete a manager.if we talk about features of work details we have 
